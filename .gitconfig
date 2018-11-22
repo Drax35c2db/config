@@ -1,0 +1,8 @@
+[user]
+	email = mehdi.aitbachir@phantombuster.com
+	name = Mehdi Ait-Bachir
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
